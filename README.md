@@ -1,9 +1,7 @@
 # HR-Analytics-Dashboard-Using-Power-BI
 
 Atliq_HR_Dashboard-Presence-Insights
-Analyze employee presence data to gain insights into working preferences, attendance, and sick leave using Power BI.
-
-The Power BI report can be found here -https://www.novypro.com/project/atliq-hr-analytics--presence-insights--power-bi
+Analyze employee presence data to gain insights into working preferences, attendance, and sick leave using Power 
 
 Overview
 This project involved the development of a Power BI dashboard to provide Atliq Technologies with actionable insights into employee presence data. The dashboard enables HR managers to understand employee working preferences, attendance patterns, and sick leave trends, facilitating informed decision-making to enhance employee engagement, optimize resource allocation, and promote health and safety initiatives. Dataset and help taken from Codebasics.
